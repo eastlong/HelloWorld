@@ -3,5 +3,7 @@ public class HelloWorld {
 
         {
         System.out.print("123456");
+        System.out.println("hadoop");
+        System.out.println("spark");
     }
 }
